@@ -149,8 +149,8 @@ To set up and run this project locally:
 ## Author
 
 **Danil Klimov**
-* GitHub: [@saakivnzechad](https://github.com/saakivnzechad)
-* Telegram: [@sarthriles](https://t.me/sarthriles)
+* GitHub: [@lyoraeth](https://github.com/lyoraeth)
+* Telegram: [@lyoraeth_art](https://t.me/lyoraeth_art)
 
 ---
 
